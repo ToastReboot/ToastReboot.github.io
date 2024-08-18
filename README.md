@@ -1,2 +1,1 @@
-# ToastReboot.github.io
-Easy Minecraft Tutorials
+#h1 Burger
